@@ -1,0 +1,11 @@
+{
+	"name": "Eudict",
+	"identifier": "pantherbar.eudict",
+	"icon": "icon.png",
+	"actions": [{
+			"title": "Eudict",
+			"icon": "icon.png",
+			"powershellFile": "eudict.ps1"
+		}
+	]
+}
